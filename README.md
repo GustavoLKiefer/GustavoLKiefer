@@ -1,6 +1,6 @@
 ### **About:**
 
-I go by Eddy in the Internet and Gustavo in real life
+I go by Gustavo
 
 ```diff
 I love technology, art and books
@@ -8,7 +8,7 @@ I love technology, art and books
 + Living in Joinville, Brazil
 - 19 years old
 ! Junior developer working with JS, React and learning Node
-> Machine learning, webdev and Python
+> Fascinated with Machine Learning and automation
 ```
 
 ### 🛠 **My Tools:**
